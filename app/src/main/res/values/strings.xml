@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">healingSlideShow</string>
+    <string name="tv_title">Healing Slide Show</string>
+    <string name="btn_ocean">Ocean</string>
+    <string name="btn_forest">Forest</string>
+    <string name="btn_universe">Universe</string>
+    <string name="btn_flower">Flower</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
